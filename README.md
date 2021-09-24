@@ -11,6 +11,8 @@ The Sakila Database holds fictional information about a company that rents movie
 3. How much did the top 10 customers pay per month in 2007?
 4. How did the top 10 customers’ spending vary each month in 2007
 
+Query results were visualised using Excel.
+
 ## Files
 
 ### slides.pdf
