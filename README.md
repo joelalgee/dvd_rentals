@@ -27,5 +27,9 @@ Pdf containing four slides which visualise the query results and answer the ques
 
 The database provided by Postgresql Tutorial can be downloaded from [this page](https://www.postgresqltutorial.com/postgresql-sample-database/).
 
+## Conclusions
+
+See slides.pdf
+
 ## Credits
 This project, and parts of the code, were provided by [Udacity](https://www.udacity.com), as part of their [Programming for Data Science nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104). The database was provided by [Postgresql Tutorial](https://www.postgresqltutorial.com/postgresql-sample-database/), a training website which helps people get started with PostgreSQL quickly and effectively.
