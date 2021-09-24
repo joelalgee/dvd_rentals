@@ -1,6 +1,6 @@
 # Sakila DVD Rental Database Investigation
 
-Investigate a DVD Rental database, using SQL queries
+Investigate a DVD Rental database, using SQL queries and Excel visualisation
 
 ## Summary
 
