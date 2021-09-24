@@ -15,13 +15,13 @@ Query results were visualised using Excel.
 
 ## Files
 
-### slides.pdf
-
-Pdf containing four slides which visualise the query results and answer the questions.
-
 ### 1.sql, 2.sql, 3.sql, 4.sql
 
 The queries used to answer the questions.
+
+### slides.pdf
+
+Pdf containing four slides which visualise the query results and answer the questions.
 
 ## Data
 
