@@ -1,4 +1,4 @@
-# Sakila DVD Rental Database Investigation
+# Sakila DVD Rental Database Investigation - August 2020
 
 Investigating a DVD Rental database, using SQL queries and Excel visualisation
 
